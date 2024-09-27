@@ -1,0 +1,2250 @@
+[
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "renvoi seulement le nom du film : Watch_SupraCell_2024_S01E01_FRENCH_1080p_WEB_DDP5_x264_TFA_mp4.mp4 , juste le nom"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "SupraCell \n"
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "renvoi seulement le nom du film ou de la serie :Watch_Supra_Cell_2024_S01E01_FRENCH_1080p_WEB_DDP5_x264_TFA_mp4.mp4 , juste le nom"
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "renvoi seulement le nom du film ou de la serie :[ Torrent911.pm ] World.Invasion.2011.MULTi.HDLight.1080p.x2.mkv , juste le nom"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "World Invasion \n"
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "renvoi seulement le nom du film ou de la serie :Watch_Supra_Cell_2024_S01E01_FRENCH_1080p_WEB_DDP5_x264_TFA_mp4.mp4 , juste le nom"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "SupraCell \n\n\n"
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "renvoi seulement le nom du film ou de la serie :Watch_Supra_Cell_2024_S01E01_FRENCH_1080p_WEB_DDP5_x264_TFA_mp4.mp4 , juste le nom"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "SupraCell \n\n\n"
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "renvoi seulement le nom du film ou de la serie :Watch_Supra_Cell_2024_S01E01_FRENCH_1080p_WEB_DDP5_x264_TFA_mp4.mp4 , juste le nom"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "SupraCell \n\n\n"
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "renvoi seulement le nom du film ou de la serie :Commissariat_de_Tampy_S03_05_Le_fou_de_la_r\u00e9publique_HD_720p_1.mp4 , juste le nom"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "Commissariat de Tampy "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "renvoi seulement le nom du film ou de la serie : , juste le nom"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "Veuillez me fournir le nom du fichier pour que je puisse extraire le nom du film ou de la s\u00e9rie. "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "renvoi seulement le nom du film ou de la serie : , juste le nom"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "Veuillez me fournir le nom du fichier pour que je puisse extraire le nom du film ou de la s\u00e9rie. Par exemple, si le nom du fichier est \"Avengers_Endgame_2019_1080p_BluRay.mkv\", je vous r\u00e9pondrai \"Avengers: Endgame\". "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "renvoi seulement le nom du film ou de la serie : , juste le nom"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "Veuillez me fournir le nom du fichier pour que je puisse extraire le nom du film ou de la s\u00e9rie. "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "renvoi seulement le nom du film ou de la serie : , juste le nom"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "Veuillez me fournir le nom du fichier pour que je puisse extraire le nom du film ou de la s\u00e9rie.  Par exemple, si le nom du fichier est \"The_Lord_of_the_Rings_The_Fellowship_of_the_Ring_2001_720p_Bluray.mkv\", je vous r\u00e9pondrai \"The Lord of the Rings: The Fellowship of the Ring\". "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "renvoi seulement le nom du film ou de la serie : , juste le nom"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "Veuillez me fournir le nom du fichier pour que je puisse extraire le nom du film ou de la s\u00e9rie.   Par exemple, si le nom du fichier est \"The_Lord_of_the_Rings_The_Fellowship_of_the_Ring_2001_720p_Bluray.mkv\", je vous r\u00e9pondrai \"The Lord of the Rings: The Fellowship of the Ring\".   N'h\u00e9sitez pas \u00e0 me donner le nom du fichier, et je ferai de mon mieux pour vous donner le nom du film ou de la s\u00e9rie.   J'attends votre r\u00e9ponse! "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "renvoi seulement le nom du film ou de la serie : , juste le nom"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "Veuillez me fournir le nom du fichier pour que je puisse extraire le nom du film ou de la s\u00e9rie.  Par exemple, si le nom du fichier est \"The_Lord_of_the_Rings_The_Fellowship_of_the_Ring_2001_720p_Bluray.mkv\", je vous r\u00e9pondrai \"The Lord of the Rings: The Fellowship of the Ring\".   N'h\u00e9sitez pas \u00e0 me donner le nom du fichier, et je ferai de mon mieux pour vous donner le nom du film ou de la s\u00e9rie.   J'attends votre r\u00e9ponse! "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "renvoi seulement le nom du film ou de la serie : , juste le nom"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "Veuillez me fournir le nom du fichier pour que je puisse extraire le nom du film ou de la s\u00e9rie. Par exemple, si le nom du fichier est \"The_Lord_of_the_Rings_The_Fellowship_of_the_Ring_2001_720p_Bluray.mkv\", je vous r\u00e9pondrai \"The Lord of the Rings: The Fellowship of the Ring\". J'attends votre r\u00e9ponse! "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "renvoi seulement le nom du film ou de la serie : , juste le nom"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "Veuillez me fournir le nom du fichier pour que je puisse extraire le nom du film ou de la s\u00e9rie.  Par exemple, si le nom du fichier est \"The_Lord_of_the_Rings_The_Fellowship_of_the_Ring_2001_720p_Bluray.mkv\", je vous r\u00e9pondrai \"The Lord of the Rings: The Fellowship of the Ring\".   N'h\u00e9sitez pas \u00e0 me donner le nom du fichier, et je ferai de mon mieux pour vous donner le nom du film ou de la s\u00e9rie.   J'attends votre r\u00e9ponse! "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "renvoi seulement le nom du film ou de la serie : , juste le nom"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "Veuillez me fournir le nom du fichier pour que je puisse extraire le nom du film ou de la s\u00e9rie. Par exemple, si le nom du fichier est \"The_Lord_of_the_Rings_The_Fellowship_of_the_Ring_2001_720p_Bluray.mkv\", je vous r\u00e9pondrai \"The Lord of the Rings: The Fellowship of the Ring\".J'attends votre r\u00e9ponse! "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "renvoi seulement le nom du film ou de la serie : , juste le nom"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "Veuillez me fournir le nom du fichier pour que je puisse extraire le nom du film ou de la s\u00e9rie.  Par exemple, si le nom du fichier est \"The_Lord_of_the_Rings_The_Fellowship_of_the_Ring_2001_720p_Bluray.mkv\", je vous r\u00e9pondrai \"The Lord of the Rings: The Fellowship of the Ring\".   N'h\u00e9sitez pas \u00e0 me donner le nom du fichier, et je ferai de mon mieux pour vous donner le nom du film ou de la s\u00e9rie.   J'attends votre r\u00e9ponse! "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "renvoi seulement le nom du film ou de la serie : , juste le nom"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "Veuillez me fournir le nom du fichier pour que je puisse extraire le nom du film ou de la s\u00e9rie.  Par exemple, si le nom du fichier est \"The_Lord_of_the_Rings_The_Fellowship_of_the_Ring_2001_720p_Bluray.mkv\", je vous r\u00e9pondrai \"The Lord of the Rings: The Fellowship of the Ring\".   N'h\u00e9sitez pas \u00e0 me donner le nom du fichier, et je ferai de mon mieux pour vous donner le nom du film ou de la s\u00e9rie.   J'attends votre r\u00e9ponse! "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "renvoi seulement le nom du film ou de la serie : , juste le nom"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "Veuillez me fournir le nom du fichier pour que je puisse extraire le nom du film ou de la s\u00e9rie. Par exemple, si le nom du fichier est \"The_Lord_of_the_Rings_The_Fellowship_of_the_Ring_2001_720p_Bluray.mkv\", je vous r\u00e9pondrai \"The Lord of the Rings: The Fellowship of the Ring\". J'attends votre r\u00e9ponse! "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "renvoi seulement le nom du film ou de la serie : , juste le nom"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "Veuillez me fournir le nom du fichier pour que je puisse extraire le nom du film ou de la s\u00e9rie. Par exemple, si le nom du fichier est \"The_Lord_of_the_Rings_The_Fellowship_of_the_Ring_2001_720p_Bluray.mkv\", je vous r\u00e9pondrai \"The Lord of the Rings: The Fellowship of the Ring\". J'attends votre r\u00e9ponse ! \ud83d\ude0a "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "renvoi seulement le nom du film ou de la serie : , juste le nom"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "Veuillez me fournir le nom du fichier pour que je puisse extraire le nom du film ou de la s\u00e9rie. Par exemple, si le nom du fichier est \"The_Lord_of_the_Rings_The_Fellowship_of_the_Ring_2001_720p_Bluray.mkv\", je vous r\u00e9pondrai \"The Lord of the Rings: The Fellowship of the Ring\". J'attends votre r\u00e9ponse ! \ud83d\ude0a "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "renvoi seulement le nom du film ou de la serie : , juste le nom"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "Veuillez me fournir le nom du fichier pour que je puisse extraire le nom du film ou de la s\u00e9rie. Par exemple, si le nom du fichier est \"The_Lord_of_the_Rings_The_Fellowship_of_the_Ring_2001_720p_Bluray.mkv\", je vous r\u00e9pondrai \"The Lord of the Rings: The Fellowship of the Ring\". J'attends votre r\u00e9ponse ! \ud83d\ude0a "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "renvoi seulement le nom du film ou de la serie : , juste le nom"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "Veuillez me fournir le nom du fichier pour que je puisse extraire le nom du film ou de la s\u00e9rie. Par exemple, si le nom du fichier est \"The_Lord_of_the_Rings_The_Fellowship_of_the_Ring_2001_720p_Bluray.mkv\", je vous r\u00e9pondrai \"The Lord of the Rings: The Fellowship of the Ring\". J'attends votre r\u00e9ponse ! \ud83d\ude0a "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "renvoi seulement le nom du film ou de la serie : , juste le nom"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "Veuillez me fournir le nom du fichier pour que je puisse extraire le nom du film ou de la s\u00e9rie. Par exemple, si le nom du fichier est \"The_Lord_of_the_Rings_The_Fellowship_of_the_Ring_2001_720p_Bluray.mkv\", je vous r\u00e9pondrai \"The Lord of the Rings: The Fellowship of the Ring\". J'attends votre r\u00e9ponse ! \ud83d\ude0a "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "renvoi seulement le nom du film ou de la serie : , juste le nom"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "Veuillez me fournir le nom du fichier pour que je puisse extraire le nom du film ou de la s\u00e9rie.  Par exemple, si le nom du fichier est \"The_Lord_of_the_Rings_The_Fellowship_of_the_Ring_2001_720p_Bluray.mkv\", je vous r\u00e9pondrai \"The Lord of the Rings: The Fellowship of the Ring\".   N'h\u00e9sitez pas \u00e0 me donner le nom du fichier, et je ferai de mon mieux pour vous donner le nom du film ou de la s\u00e9rie.   J'attends votre r\u00e9ponse! "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "renvoi seulement le nom du film ou de la serie : , juste le nom"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "Veuillez me fournir le nom du fichier pour que je puisse extraire le nom du film ou de la s\u00e9rie. Par exemple, si le nom du fichier est \"The_Lord_of_the_Rings_The_Fellowship_of_the_Ring_2001_720p_Bluray.mkv\", je vous r\u00e9pondrai \"The Lord of the Rings: The Fellowship of the Ring\". J'attends votre r\u00e9ponse ! \ud83d\ude0a "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "renvoi seulement le nom du film ou de la serie : , juste le nom"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "Veuillez me fournir le nom du fichier pour que je puisse extraire le nom du film ou de la s\u00e9rie. Par exemple, si le nom du fichier est \"The_Lord_of_the_Rings_The_Fellowship_of_the_Ring_2001_720p_Bluray.mkv\", je vous r\u00e9pondrai \"The Lord of the Rings: The Fellowship of the Ring\". J'attends votre r\u00e9ponse ! \ud83d\ude0a "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "renvoi seulement le nom du film ou de la serie : , juste le nom"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "Veuillez me fournir le nom du fichier pour que je puisse extraire le nom du film ou de la s\u00e9rie.  Par exemple, si le nom du fichier est \"The_Lord_of_the_Rings_The_Fellowship_of_the_Ring_2001_720p_Bluray.mkv\", je vous r\u00e9pondrai \"The Lord of the Rings: The Fellowship of the Ring\".   N'h\u00e9sitez pas \u00e0 me donner le nom du fichier, et je ferai de mon mieux pour vous donner le nom du film ou de la s\u00e9rie.   J'attends votre r\u00e9ponse! "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "renvoi seulement le nom du film ou de la serie :Commissariat de tampy S03 E03: de p\u00e8re en fils , juste le nom"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "Commissariat de Tampy "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "renvoi seulement le nom du film ou de la serie :Commissariat de tampy S03 E03: de p\u00e8re en fils , juste le nom"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "Commissariat de Tampy "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "renvoi seulement le nom du film ou de la serie :Commissariat de tampy S03 E03: de p\u00e8re en fils , juste le nom"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "Commissariat de Tampy "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "renvoi seulement le nom du film ou de la serie :Commissariat de tampy S03 E03: de p\u00e8re en fils , juste le nom"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "Commissariat de Tampy "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "renvoi seulement le nom du film ou de la serie :Commissariat de tampy S03 E03: de p\u00e8re en fils , juste le nom"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "Commissariat de Tampy "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "renvoi seulement le nom du film ou de la serie :Commissariat de tampy S03 E03: de p\u00e8re en fils , juste le nom"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "Commissariat de Tampy "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "renvoi seulement le nom du film ou de la serie :After 2 (2020) VF.@filmsetseries653.mp4 , juste le nom"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "After 2 "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "renvoi seulement le nom du film ou de la serie :After 2 (2020) VF.@filmsetseries653.mp4 , juste le nom"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "After 2 "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "renvoi seulement le nom du film ou de la serie :Le_gangster,le_flic_et_l'assassin_2019_VF_@filmsetseries653.mp4 , juste le nom"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "Le Gangster, le Flic et l'Assassin "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "renvoi seulement le nom du film ou de la serie :Le_gangster,le_flic_et_l'assassin_2019_VF_@filmsetseries653.mp4 , juste le nom"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "Le Gangster, le Flic et l'Assassin "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "renvoi seulement le nom du film ou de la serie :Love don't cost a thing (2003) VF.@filmsetseries653.mp4 , juste le nom"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "Love Don't Cost a Thing "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "renvoi seulement le nom du film ou de la serie :Love don't cost a thing (2003) VF.@filmsetseries653.mp4 , juste le nom"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "Love Don't Cost a Thing "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "renvoi seulement le nom du film ou de la serie :Le fondateur (2016) VF.@filmsetseries653.mp4 , juste le nom"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "Le Fondateur "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "renvoi seulement le nom du film ou de la serie :Le fondateur (2016) VF.@filmsetseries653.mp4 , juste le nom"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "Le Fondateur "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "renvoi seulement le nom du film ou de la serie :Tomb raider (2018) VF.@filmsetseries653.mp4 , juste le nom"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "Tomb Raider "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "renvoi seulement le nom du film ou de la serie :Tomb raider (2018) VF.@filmsetseries653.mp4 , juste le nom"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "Tomb Raider "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "renvoi seulement le nom du film ou de la serie :Snatched from mommy (2021) VF.@filmsetseries653.mp4 , juste le nom"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "Snatched from Mommy "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "renvoi seulement le nom du film ou de la serie :Snatched from mommy (2021) VF.@filmsetseries653.mp4 , juste le nom"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "Snatched from Mommy "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "renvoi seulement le nom du film ou de la serie :The man from toronto (2022) VF.@filmsetseries653.mp4 , juste le nom"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "The Man from Toronto "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "renvoi seulement le nom du film ou de la serie :The man from toronto (2022) VF.@filmsetseries653.mp4 , juste le nom"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "The Man from Toronto "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "renvoi seulement le nom du film ou de la serie :Le_gangster,le_flic_et_l'assassin_2019_VF_@filmsetseries653.mp4 , juste le nom"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "Le Gangster, le Flic et l'Assassin "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "renvoi seulement le nom du film ou de la serie :Le_gangster,le_flic_et_l'assassin_2019_VF_@filmsetseries653.mp4 , juste le nom"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "Le Gangster, le Flic et l'Assassin "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "renvoi seulement le nom du film ou de la serie :Le_gangster,le_flic_et_l'assassin_2019_VF_@filmsetseries653.mp4 , juste le nom"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "Le Gangster, le Flic et l'Assassin "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "renvoi seulement le nom du film ou de la serie :Le_gangster,le_flic_et_l'assassin_2019_VF_@filmsetseries653.mp4 , juste le nom"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "Le Gangster, le Flic et l'Assassin "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "renvoi seulement le nom du film ou de la serie :Le_gangster,le_flic_et_l'assassin_2019_VF_@filmsetseries653.mp4 , juste le nom"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "Le Gangster, le Flic et l'Assassin "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "renvoi seulement le nom du film ou de la serie :Le_gangster,le_flic_et_l'assassin_2019_VF_@filmsetseries653.mp4 , juste le nom"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "Le Gangster, le Flic et l'Assassin "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "renvoi seulement le nom du film ou de la serie :After 2 (2020) VF.@filmsetseries653.mp4 , juste le nom"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "After 2 "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "renvoi seulement le nom du film ou de la serie :After 2 (2020) VF.@filmsetseries653.mp4 , juste le nom"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "After 2 "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "renvoi seulement le nom du film ou de la serie :Le_gangster,le_flic_et_l'assassin_2019_VF_@filmsetseries653.mp4 , juste le nom"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "Le Gangster, le Flic et l'Assassin "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "renvoi seulement le nom du film ou de la serie :Le_gangster,le_flic_et_l'assassin_2019_VF_@filmsetseries653.mp4 , juste le nom"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "Le Gangster, le Flic et l'Assassin "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "renvoi seulement le nom du film ou de la serie :Love don't cost a thing (2003) VF.@filmsetseries653.mp4 , juste le nom"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "Love Don't Cost a Thing "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "renvoi seulement le nom du film ou de la serie :Love don't cost a thing (2003) VF.@filmsetseries653.mp4 , juste le nom"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "Love Don't Cost a Thing "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "renvoi seulement le nom du film ou de la serie :Le fondateur (2016) VF.@filmsetseries653.mp4 , juste le nom"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "Le Fondateur "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "renvoi seulement le nom du film ou de la serie :Le fondateur (2016) VF.@filmsetseries653.mp4 , juste le nom"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "Le Fondateur "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "renvoi seulement le nom du film ou de la serie :Tomb raider (2018) VF.@filmsetseries653.mp4 , juste le nom"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "Tomb Raider "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "renvoi seulement le nom du film ou de la serie :Tomb raider (2018) VF.@filmsetseries653.mp4 , juste le nom"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "Tomb Raider "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "renvoi seulement le nom du film ou de la serie :Snatched from mommy (2021) VF.@filmsetseries653.mp4 , juste le nom"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "Snatched from Mommy "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "renvoi seulement le nom du film ou de la serie :Snatched from mommy (2021) VF.@filmsetseries653.mp4 , juste le nom"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "Snatched from Mommy "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "renvoi seulement le nom du film ou de la serie :The man from toronto (2022) VF.@filmsetseries653.mp4 , juste le nom"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "The Man from Toronto "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "renvoi seulement le nom du film ou de la serie :The man from toronto (2022) VF.@filmsetseries653.mp4 , juste le nom"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "The Man from Toronto "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "renvoi seulement le nom du film ou de la serie :Watch_Supra_Cell_2024_S01E01_FRENCH_1080p_WEB_DDP5_x264_TFA_mp4.mp4 , juste le nom"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "SupraCell "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "renvoi seulement le nom du film ou de la serie :Watch_Supra_Cell_2024_S01E01_FRENCH_1080p_WEB_DDP5_x264_TFA_mp4.mp4 , juste le nom"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "SupraCell "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "renvoi seulement le nom du film . , si le c'une serie , renvoi \r\n   nom saison () episode () exemple[ supracell saison 1 episode 1] : WatchSupraCell2024S01E01FRENCH1080pWEBDDPx264TFA_mp4.mp4 , juste le nom"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "Supracell Saison 1 Episode 1 \n"
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "renvoi seulement le nom du film . , si le c'une serie , renvoi \r\n   nom saison () episode () exemple[ supracell saison 1 episode 1] .\r\n    nouveau : WatchSupraCell2024S01E01FRENCH1080pWEBDDPx264TFA_mp4.mp4 , juste le nom"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "Supracell Saison 1 Episode 1 \n"
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "renvoi seulement le nom du film . , si le c'une serie , renvoi \r\n   nom saison () episode () exemple[ supracell saison 1 episode 1] .\r\n    nouveau : Watcharrow2024S01E01FRENCH1080pWEBDDPx264TFA_mp4.mp4 , juste le nom"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "Arrow Saison 1 Episode 1 \n"
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "detect et retourn le nom de la serie ou du film.retourne juste le nom si tu detecte la presence de saison et ou  d'episode tu renvoi le nom + saison + episode. \r\n   Watch_Supra_Cell_2024_S01E01_FRENCH_1080p_WEB_DDP5_x264_TFA_mp4.mp4\r\n   \r\n   "
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "SupraCell Saison 1 Episode 1 \n"
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "detect et retourn le nom de la serie ou du film.retourne juste le nom si tu detecte la presence de saison et ou  d'episode tu renvoi le nom + saison + episode. \r\n   Watch_Supra_Cell_2024_FRENCH1080p_WEB_DDP5_x264_TFA_mp4.mp4\r\n   \r\n   "
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "SupraCell \n"
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "detect et retourn le nom de la serie ou du film.retourne juste le nom si tu detecte la presence de saison et ou  d'episode tu renvoi le nom + saison + episode. \r\n   good day to die hard FRENCH1080p_WEB_DDP5_x264_TFA_mp4.mp4\r\n   \r\n   "
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "A Good Day to Die Hard \n"
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "renvoi seulement le nom du film ou de la serie :Watch_Supra_Cell_2024_S01E01_FRENCH_1080p_WEB_DDP5_x264_TFA_mp4.mp4 , juste le nom"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "SupraCell Saison 1 Episode 1 "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "renvoi seulement le nom du film ou de la serie :Watch_Supra_Cell_2024_S01E01_FRENCH_1080p_WEB_DDP5_x264_TFA_mp4.mp4 , juste le nom"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "SupraCell Saison 1 Episode 1 "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "renvoi seulement le nom du film ou de la serie :Watch_Supra_Cell_2024_S01E01_FRENCH_1080p_WEB_DDP5_x264_TFA_mp4.mp4 , juste le nom"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "SupraCell Saison 1 Episode 1 "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "renvoi seulement le nom du film ou de la serie :[ @Cinegalaxie ][ Torrent911.tw ] Basma.2024.FRENCH.HDRip.x2.mkv , juste le nom"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "Basma "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "renvoi seulement le nom du film ou de la serie :[ @Cinegalaxie ][ Torrent911.tw ] Basma.2024.FRENCH.HDRip.x2.mkv , juste le nom"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "Basma "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "detect et retourn le nom de la serie ou du film.retourne juste le nom si tu detecte la presence de saison et ou  d'episode tu renvoi le nom + saison + episode. \r\n   Those.About.to.Die.S01E01.MULTi.1080p.WEB.H265-FW.mkv"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "Those About to Die Saison 1 Episode 1 "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "detect et retourn le nom de la serie ou du film.retourne juste le nom si tu detecte la presence de saison et ou  d'episode tu renvoi le nom + saison + episode. \r\n   Those.About.to.Die.S01E01.MULTi.1080p.WEB.H265-FW.mkv"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "Those About to Die Saison 1 Episode 1 "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "detect et retourn le nom de la serie ou du film.retourne juste le nom si tu detecte la presence de saison et ou  d'episode tu renvoi le nom + saison + episode. \r\n   Krypton.S02E01.FRENCH.HDTV.XviD-EXTREME.mp4"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "Krypton Saison 2 Episode 1 "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "detect et retourn le nom de la serie ou du film.retourne juste le nom si tu detecte la presence de saison et ou  d'episode tu renvoi le nom + saison + episode. \r\n   Krypton.S02E01.FRENCH.HDTV.XviD-EXTREME.mp4"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "Krypton Saison 2 Episode 1 "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "detect et retourn le nom de la serie ou du film.retourne juste le nom si tu detecte la presence de saison et ou  d'episode tu renvoi le nom + saison + episode. \r\n   Krypton.S02E02.FRENCH.HDTV.XviD-EXTREME.mp4"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "Krypton Saison 2 Episode 2 "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "detect et retourn le nom de la serie ou du film.retourne juste le nom si tu detecte la presence de saison et ou  d'episode tu renvoi le nom + saison + episode. \r\n   Krypton.S02E02.FRENCH.HDTV.XviD-EXTREME.mp4"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "Krypton Saison 2 Episode 2 "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "detect et retourn le nom de la serie ou du film.retourne juste le nom si tu detecte la presence de saison et ou  d'episode tu renvoi le nom + saison + episode. \r\n   Krypton.S02E03.FRENCH.HDTV.XviD.EXTREME.mp4"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "Krypton Saison 2 Episode 3 "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "detect et retourn le nom de la serie ou du film.retourne juste le nom si tu detecte la presence de saison et ou  d'episode tu renvoi le nom + saison + episode. \r\n   Krypton.S02E03.FRENCH.HDTV.XviD.EXTREME.mp4"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "Krypton Saison 2 Episode 3 "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "detect et retourn le nom de la serie ou du film.retourne juste le nom si tu detecte la presence de saison et ou  d'episode tu renvoi le nom + saison + episode. \r\n   Krypton.S02E04.FRENCH.HDTV.XviD.EXTREME.mp4"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "Krypton Saison 2 Episode 4 "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "detect et retourn le nom de la serie ou du film.retourne juste le nom si tu detecte la presence de saison et ou  d'episode tu renvoi le nom + saison + episode. \r\n   Krypton.S02E04.FRENCH.HDTV.XviD.EXTREME.mp4"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "Krypton Saison 2 Episode 4 "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "detect et retourn le nom de la serie ou du film.retourne juste le nom si tu detecte la presence de saison et ou  d'episode tu renvoi le nom + saison + episode. \r\n   Krypton.S02E06.FRENCH.HDTV.XviD.EXTREME.mp4"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "Krypton Saison 2 Episode 6 "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "detect et retourn le nom de la serie ou du film.retourne juste le nom si tu detecte la presence de saison et ou  d'episode tu renvoi le nom + saison + episode. \r\n   Krypton.S02E06.FRENCH.HDTV.XviD.EXTREME.mp4"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "Krypton Saison 2 Episode 6 "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "detect et retourn le nom de la serie ou du film.retourne juste le nom si tu detecte la presence de saison et ou  d'episode tu renvoi le nom + saison + episode. \r\n   Krypton.S02E07.FRENCH.HDTV.XviD-EXTREME.mp4"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "Krypton Saison 2 Episode 7 "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "detect et retourn le nom de la serie ou du film.retourne juste le nom si tu detecte la presence de saison et ou  d'episode tu renvoi le nom + saison + episode. \r\n   Krypton.S02E07.FRENCH.HDTV.XviD-EXTREME.mp4"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "Krypton Saison 2 Episode 7 "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "detect et retourn le nom de la serie ou du film.retourne juste le nom si tu detecte la presence de saison et ou  d'episode tu renvoi le nom + saison + episode. \r\n   Krypton.S02E07.FRENCH.HDTV.XviD-EXTREME.mp4"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "Krypton Saison 2 Episode 7 "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "detect et retourn le nom de la serie ou du film.retourne juste le nom si tu detecte la presence de saison et ou  d'episode tu renvoi le nom + saison + episode. \r\n   Krypton.S02E07.FRENCH.HDTV.XviD-EXTREME.mp4"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "Krypton Saison 2 Episode 7 "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "detect et retourn le nom de la serie ou du film.retourne juste le nom si tu detecte la presence de saison et ou  d'episode tu renvoi le nom + saison + episode. \r\n   Krypton.S02E07.FRENCH.HDTV.XviD-EXTREME.mp4"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "Krypton Saison 2 Episode 7 "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "detect et retourn le nom de la serie ou du film.retourne juste le nom si tu detecte la presence de saison et ou  d'episode tu renvoi le nom + saison + episode. \r\n   Krypton.S02E07.FRENCH.HDTV.XviD-EXTREME.mp4"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "Krypton Saison 2 Episode 7 "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "detect et retourn le nom de la serie ou du film.retourne juste le nom si tu detecte la presence de saison et ou  d'episode tu renvoi le nom + saison + episode. \r\n   Krypton.S02E07.FRENCH.HDTV.XviD-EXTREME.mp4"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "Krypton Saison 2 Episode 7 "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "detect et retourn le nom de la serie ou du film.retourne juste le nom si tu detecte la presence de saison et ou  d'episode tu renvoi le nom + saison + episode. \r\n   Krypton.S02E07.FRENCH.HDTV.XviD-EXTREME.mp4"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "Krypton Saison 2 Episode 7 "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "detect et retourn le nom de la serie ou du film.retourne juste le nom si tu detecte la presence de saison et ou  d'episode tu renvoi le nom + saison + episode. \r\n   Krypton.S02E07.FRENCH.HDTV.XviD-EXTREME.mp4"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "Krypton Saison 2 Episode 7 "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "detect et retourn le nom de la serie ou du film.retourne juste le nom si tu detecte la presence de saison et ou  d'episode tu renvoi le nom + saison + episode. \r\n   Krypton.S02E07.FRENCH.HDTV.XviD-EXTREME.mp4"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "Krypton Saison 2 Episode 7 "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "detect et retourn le nom de la serie ou du film.retourne juste le nom si tu detecte la presence de saison et ou  d'episode tu renvoi le nom + saison + episode. \r\n   Krypton.S02E07.FRENCH.HDTV.XviD-EXTREME.mp4"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "Krypton Saison 2 Episode 7 "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "detect et retourn le nom de la serie ou du film.retourne juste le nom si tu detecte la presence de saison et ou  d'episode tu renvoi le nom + saison + episode. \r\n   Krypton.S02E08.FRENCH.HDTV.XviD-EXTREME.mp4"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "Krypton Saison 2 Episode 8 "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "detect et retourn le nom de la serie ou du film.retourne juste le nom si tu detecte la presence de saison et ou  d'episode tu renvoi le nom + saison + episode. \r\n   Krypton.S02E08.FRENCH.HDTV.XviD-EXTREME.mp4"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "Krypton Saison 2 Episode 8 "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "detect et retourn le nom de la serie ou du film.retourne juste le nom si tu detecte la presence de saison et ou  d'episode tu renvoi le nom + saison + episode. \r\n   Krypton.S02E09.FRENCH.HDTV.XviD-EXTREME.mp4"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "Krypton Saison 2 Episode 9 "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "detect et retourn le nom de la serie ou du film.retourne juste le nom si tu detecte la presence de saison et ou  d'episode tu renvoi le nom + saison + episode. \r\n   Krypton.S02E09.FRENCH.HDTV.XviD-EXTREME.mp4"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "Krypton Saison 2 Episode 9 "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "detect et retourn le nom de la serie ou du film.retourne juste le nom si tu detecte la presence de saison et ou  d'episode tu renvoi le nom + saison + episode. \r\n   Krypton.S02E10.FiNAL.FRENCH.HDTV.XviD-EXTREME.mp4"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "Krypton Saison 2 Episode 10 "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "detect et retourn le nom de la serie ou du film.retourne juste le nom si tu detecte la presence de saison et ou  d'episode tu renvoi le nom + saison + episode. \r\n   Krypton.S02E10.FiNAL.FRENCH.HDTV.XviD-EXTREME.mp4"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "Krypton Saison 2 Episode 10 "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "detect et retourn le nom de la serie ou du film.retourne juste le nom si tu detecte la presence de saison et ou  d'episode tu renvoi le nom + saison + episode. \r\n   Vampire.Diaries.S08 E16.FIN.Shar.Club.mkv"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "Vampire Diaries Saison 8 Episode 16 "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "detect et retourn le nom de la serie ou du film.retourne juste le nom si tu detecte la presence de saison et ou  d'episode tu renvoi le nom + saison + episode. \r\n   Vampire.Diaries.S08 E16.FIN.Shar.Club.mkv"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "Vampire Diaries Saison 8 Episode 16 "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "detect et retourn le nom de la serie ou du film.retourne juste le nom si tu detecte la presence de saison et ou  d'episode tu renvoi le nom + saison + episode. \r\n   Watch_Supra_Cell_2024_S01E01_FRENCH_1080p_WEB_DDP5_x264_TFA_mp4.mp4"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "SupraCell Saison 1 Episode 1 "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "detect et retourn le nom de la serie ou du film.retourne juste le nom si tu detecte la presence de saison et ou  d'episode tu renvoi le nom + saison + episode. \r\n   Watch_Supra_Cell_2024_S01E01_FRENCH_1080p_WEB_DDP5_x264_TFA_mp4.mp4"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "SupraCell Saison 1 Episode 1 "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "detect et retourn le nom de la serie ou du film.retourne juste le nom si tu detecte la presence de saison et ou  d'episode tu renvoi le nom + saison + episode. \r\n   Watch_Supra_Cell_2024_S01E01_FRENCH_1080p_WEB_DDP5_x264_TFA_mp4.mp4"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "SupraCell Saison 1 Episode 1 "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "detect et retourn le nom de la serie ou du film.retourne juste le nom si tu detecte la presence de saison et ou  d'episode tu renvoi le nom + saison + episode. \r\n   Watch_Supra_Cell_2024_S01E01_FRENCH_1080p_WEB_DDP5_x264_TFA_mp4.mp4"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "SupraCell Saison 1 Episode 1 "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "detect et retourn le nom de la serie ou du film.retourne juste le nom si tu detecte la presence de saison et ou  d'episode tu renvoi le nom + saison + episode. \r\n   Watch_Supra_Cell_2024_S01E01_FRENCH_1080p_WEB_DDP5_x264_TFA_mp4.mp4"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "SupraCell Saison 1 Episode 1 "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "detect et retourn le nom de la serie ou du film.retourne juste le nom si tu detecte la presence de saison et ou  d'episode tu renvoi le nom + saison + episode. \r\n   Watch_Supra_Cell_2024_S01E01_FRENCH_1080p_WEB_DDP5_x264_TFA_mp4.mp4"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "SupraCell Saison 1 Episode 1 "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "detect et retourn le nom de la serie ou du film.retourne juste le nom si tu detecte la presence de saison et ou  d'episode tu renvoi le nom + saison + episode. \r\n   Watch_Supra_Cell_2024_S01E01_FRENCH_1080p_WEB_DDP5_x264_TFA_mp4.mp4"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "SupraCell Saison 1 Episode 1 "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "detect et retourn le nom de la serie ou du film.retourne juste le nom si tu detecte la presence de saison et ou  d'episode tu renvoi le nom + saison + episode. \r\n   Watch_Supra_Cell_2024_S01E01_FRENCH_1080p_WEB_DDP5_x264_TFA_mp4.mp4"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "SupraCell Saison 1 Episode 1 "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "detect et retourn le nom de la serie ou du film.retourne juste le nom si tu detecte la presence de saison et ou  d'episode tu renvoi le nom + saison + episode. \r\n   Watch_Supra_Cell_2024_S01E01_FRENCH_1080p_WEB_DDP5_x264_TFA_mp4.mp4"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "SupraCell Saison 1 Episode 1 "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "detect et retourn le nom de la serie ou du film.retourne juste le nom si tu detecte la presence de saison et ou  d'episode tu renvoi le nom + saison + episode. \r\n   Watch_Supra_Cell_2024_S01E01_FRENCH_1080p_WEB_DDP5_x264_TFA_mp4.mp4"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "SupraCell Saison 1 Episode 1 "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "detect et retourn le nom de la serie ou du film.retourne juste le nom si tu detecte la presence de saison et ou  d'episode tu renvoi le nom + saison + episode. \r\n   Watch_Supra_Cell_2024_S01E01_FRENCH_1080p_WEB_DDP5_x264_TFA_mp4.mp4"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "SupraCell Saison 1 Episode 1 "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "detect et retourn le nom de la serie ou du film.retourne juste le nom si tu detecte la presence de saison et ou  d'episode tu renvoi le nom + saison + episode. \r\n   Watch_Supra_Cell_2024_S01E01_FRENCH_1080p_WEB_DDP5_x264_TFA_mp4.mp4"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "SupraCell Saison 1 Episode 1 "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "detect et retourn le nom de la serie ou du film.retourne juste le nom si tu detecte la presence de saison et ou  d'episode tu renvoi le nom + saison + episode. \r\n   Watch_Supra_Cell_2024_S01E01_FRENCH_1080p_WEB_DDP5_x264_TFA_mp4.mp4"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "SupraCell Saison 1 Episode 1 "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "detect et retourn le nom de la serie ou du film.retourne juste le nom si tu detecte la presence de saison et ou  d'episode tu renvoi le nom + saison + episode. \r\n   Watch_Supra_Cell_2024_S01E01_FRENCH_1080p_WEB_DDP5_x264_TFA_mp4.mp4"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "SupraCell Saison 1 Episode 1 "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "detect et retourn le nom de la serie ou du film.retourne juste le nom si tu detecte la presence de saison et ou  d'episode tu renvoi le nom + saison + episode. \r\n   Watch_Supra_Cell_2024_S01E01_FRENCH_1080p_WEB_DDP5_x264_TFA_mp4.mp4"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "SupraCell Saison 1 Episode 1 "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "detect et retourn le nom de la serie ou du film.retourne juste le nom si tu detecte la presence de saison et ou  d'episode tu renvoi le nom + saison + episode. \r\n   The Union."
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "The Union "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "detect et retourn le nom de la serie ou du film.retourne juste le nom si tu detecte la presence de saison et ou  d'episode tu renvoi le nom + saison + episode. \r\n   [ @Wednesday_French ] Mercredi 01 French.mkv"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "Mercredi "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "detect et retourn le nom de la serie ou du film.retourne juste le nom si tu detecte la presence de saison et ou  d'episode tu renvoi le nom + saison + episode. \r\n   ANT1.mp4"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "ANT1 "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "detect et retourn le nom de la serie ou du film.retourne juste le nom si tu detecte la presence de saison et ou  d'episode tu renvoi le nom + saison + episode. \r\n   ANT2.mp4"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "ANT2 "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "detect et retourn le nom de la serie ou du film.retourne juste le nom si tu detecte la presence de saison et ou  d'episode tu renvoi le nom + saison + episode. \r\n   ANT3.mp4"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "ANT3 "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "detect et retourn le nom de la serie ou du film.retourne juste le nom si tu detecte la presence de saison et ou  d'episode tu renvoi le nom + saison + episode. \r\n   ANT4.mp4"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "ANT4 "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "detect et retourn le nom de la serie ou du film.retourne juste le nom si tu detecte la presence de saison et ou  d'episode tu renvoi le nom + saison + episode. \r\n   ANT5.mp4"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "ANT5 "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "detect et retourn le nom de la serie ou du film.retourne juste le nom si tu detecte la presence de saison et ou  d'episode tu renvoi le nom + saison + episode. \r\n   ANT6.mp4"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "ANT6 "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "detect et retourn le nom de la serie ou du film.retourne juste le nom si tu detecte la presence de saison et ou  d'episode tu renvoi le nom + saison + episode. \r\n   202405282020 (1).mp4"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "202405282020 "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "detect et retourn le nom de la serie ou du film.retourne juste le nom si tu detecte la presence de saison et ou  d'episode tu renvoi le nom + saison + episode. \r\n   SansAucunRemords.mp4"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "Sans Aucun Remords "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "detect et retourn le nom de la serie ou du film.retourne juste le nom si tu detecte la presence de saison et ou  d'episode tu renvoi le nom + saison + episode. \r\n   202405282020 (1).mp4"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "202405282020 "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "detect et retourn le nom de la serie ou du film.retourne juste le nom si tu detecte la presence de saison et ou  d'episode tu renvoi le nom + saison + episode. \r\n   _Torrent911_eu_Rendel_Cycle_Of_Revenge_2024_French_720P_WEBRIP.mp4"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "Rendel: Cycle of Revenge "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "detect et retourn le nom de la serie ou du film.retourne juste le nom si tu detecte la presence de saison et ou  d'episode tu renvoi le nom + saison + episode. \r\n   202405282020 (1).mp4"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "202405282020 "
+            }
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            {
+                "text": "detect et retourn le nom de la serie ou du film.retourne juste le nom si tu detecte la presence de saison et ou  d'episode tu renvoi le nom + saison + episode. \r\n   Arrow.S04E01 Shar.Club.mkv"
+            }
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            {
+                "text": "Arrow Saison 4 Episode 1 "
+            }
+        ]
+    }
+]
